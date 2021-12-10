@@ -9,7 +9,7 @@
     <!-- Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap" rel="stylesheet">
 
     <!-- Style -->
     <link rel="stylesheet" href="./public/css/style.min.css">
@@ -40,7 +40,7 @@
                 </div>
 
                 <div class="header__logo">
-                    <img src="/images/img/logo-descktop.svg" alt="">
+                    <img src="./images/img/logo-descktop.svg" alt="">
                 </div>
 
                 <!-- Links Desktop -->
